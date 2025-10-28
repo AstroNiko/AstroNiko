@@ -19,3 +19,6 @@ Hola mundo! Soy AstroNiko, un estudiante de astronomía apasionado por la educac
 - ✍️ Actualmente estoy trabajando como representate y monitor EDA 🔭
 - Estoy aprendiendo:  Python 🐍 orientado a reducción y procesamiento de datos astronómicos.
 - 🫂 Estoy aprendiendo el flujo de git y github
+### Acerca de mis repositorios:
+En este momento, los repositorios públicos de mi perfil están enfocados en desarrollar códigos necesarios para la asignatura *Astronomía observacional*.
+Pd: Si eres alguien que se encuentra cursando una asignatura similar y tienes alguna duda o sugerencia, sientete libre de realizarla.
