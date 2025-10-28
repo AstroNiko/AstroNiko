@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola mundo! Soy AstroNiko, un estudiante de astronomía apasionado por la educación y divulgación científica.
+
+- ✍️ Actualmente estoy trabajando como representate y monitor EDA 🔭
+- Estoy aprendiendo:  Python 🐍 orientado a reducción y procesamiento de datos astronómicos.
+- 🫂 Estoy aprendiendo el flujo de git y github
