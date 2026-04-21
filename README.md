@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola mundo! Soy AstroNiko, un estudiante de astronomía apasionado por la educación y divulgación científica.
+Hello World! I'm AstroNiko, an undergraduate astronomy student passionate about astronomical outreach.
 
-- ✍️ Actualmente estoy trabajando como representate y monitor EDA 🔭
-- Estoy aprendiendo:  Python 🐍 orientado a reducción y procesamiento de datos astronómicos.
-- 🫂 Estoy aprendiendo el flujo de git y github
+✍️ Currently, I’m working in EDA as a coordinator and monitor.🔭 I’m in an exoplanet research group focused on chemical analysis and photometric characterization.
+- I’m learning Python 🐍 focused on astronomical data reduction and processing. I’m just starting to learn Julia as well.
